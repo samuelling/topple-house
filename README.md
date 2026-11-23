@@ -2,7 +2,7 @@
 
 A 3D domino-toppling game set in a cutaway dollhouse. Each room is a level with a job to do: lay dominoes across the floor and up on the furniture, drop lines off table edges, and get marbles up and down with catapults, trebuchets, ramps, pulley lifts and trampolines to hit targets that sit up high. The whole house is a sandbox with every door open.
 
-Play it at **https://samuelling.github.io/topple-house/** (once GitHub Pages is on), or open `index.html` directly in a browser. It's touch-first and works on a phone.
+Play it at **https://linglab.org/topple-house/** (once GitHub Pages is on), or open `index.html` directly in a browser. It's touch-first and works on a phone.
 
 ## Rooms
 
